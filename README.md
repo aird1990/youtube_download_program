@@ -1,2 +1,6 @@
 # youtube_download_program
 youtubeをダウンロードするプログラム
+
+※まず前提条件としてpytubeというPythonライブラリをインストールしときましょう。
+インストールやり方はネットで調べてください。
+
